@@ -1,6 +1,6 @@
 {
   "name": "gar",
-  "version-string": "f9894a2",
+  "version-string": "526aa6c",
   "description": "Archive format for game resource management",
   "homepage": "https://github.com/Rokr0k/gar",
   "dependencies": [
